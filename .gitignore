@@ -67,3 +67,5 @@ tests/apps/mk/Win32/
 ehthumbs.db
 Icon?
 Thumbs.db
+*.pdb
+*.idb
